@@ -1,0 +1,17 @@
+React Native expo
+
+1) Flex 
+2) Main Page
+3) Login Page design
+
+
+4) Component design .
+
+npm install -g create-react-app
+
+create-react-app react1
+
+cd react 
+npm start
+
+
